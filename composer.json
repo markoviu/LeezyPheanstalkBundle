@@ -21,7 +21,7 @@
         "phpunit/phpunit": "~4.0",
         "phpunit/phpunit-mock-objects": "2.3.0"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Leezy\\PheanstalkBundle\\": "src/"
